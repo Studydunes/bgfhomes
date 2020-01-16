@@ -1,0 +1,52 @@
+BGFHOMES issues:
+PLEASE I HAVE EDITED SOME CONTENTS ON THE PAGE HEADER and EMAIL TEMPLATE . PLEASE LEAVE IT THE WAY I DID
+
+Find below points to correct:
+1. Add USD $ to currency type in user transfer fund page
+Status: Done
+
+2. Am I building a list of banks or how does it work there?
+Status: Done
+
+3. Where can users see lists of beneficiaries for users?
+Status: Done, Now added to customer section for listing the beneficairy.(under menu "account")
+
+4. Transfer successful even when am on zero balance? WHY?
+Status: Done
+
+5. Where does messages on CONTACT.PHP form go?
+Status: Done, contact information is sent to "visitation@bgfhomes.com"
+
+6. How can ADMIN see customer/user account ID?
+Status: Done, Under the Report > customer report section.
+
+7. Message sould go off in ADD BENE ACC for users
+Status: Done
+
+8. TRANSFER REQUEST PAGE / PROCESS TO COMPLETE PENDING TRANSACTION?
+Status: Inprogress, not clear the point.
+
+9. Credited funds not working well $4000 = $4. Value issue here I think
+Status: Done, I have tested it in cutomer > transfer fund, and it is working fine.
+
+10. ACCOUNT ID/USER ID appears incomplete in users info EA mising
+Status: Done
+
+11. MULTIPLE ACCOUNTS SIGNUP USING SINGLE EMAIL
+Status: Done
+
+Please leave the content and changes I have applied
+
+=============================
+
+1. user active/deactive can be approve by admin. (adminlogin > reports > customer status)
+2. approved user can only be login.
+3. fund transfer to beneficiary and change "fund transfer status" by admin.
+
+
+===========================
+
+
+
+
+

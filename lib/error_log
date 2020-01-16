@@ -1,0 +1,467 @@
+[25-Sep-2018 01:08:33 America/Chicago] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/bgfhomes/public_html/lib/login.php on line 51
+[25-Sep-2018 01:08:47 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 5
+[25-Sep-2018 01:08:47 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 9
+[25-Sep-2018 01:08:47 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 13
+[25-Sep-2018 02:04:53 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/config.php on line 2
+[25-Sep-2018 02:09:54 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/config.php on line 2
+[25-Sep-2018 02:10:34 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/config.php on line 2
+[25-Sep-2018 02:13:46 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/config.php on line 2
+[25-Sep-2018 02:13:54 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/config.php on line 2
+[25-Sep-2018 02:13:58 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/config.php on line 2
+[25-Sep-2018 02:14:06 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/config.php on line 2
+[25-Sep-2018 02:22:21 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/config.php on line 2
+[25-Sep-2018 02:27:22 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/config.php on line 2
+[25-Sep-2018 02:36:08 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/config.php on line 2
+[25-Sep-2018 02:36:34 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/config.php on line 2
+[25-Sep-2018 02:38:31 America/Chicago] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/bgfhomes/public_html/lib/login.php on line 51
+[25-Sep-2018 02:40:36 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/config.php on line 2
+[25-Sep-2018 02:41:08 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/config.php on line 2
+[25-Sep-2018 02:41:37 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/config.php on line 2
+[25-Sep-2018 02:45:04 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/config.php on line 2
+[25-Sep-2018 02:45:08 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/config.php on line 2
+[25-Sep-2018 02:45:12 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/config.php on line 2
+[25-Sep-2018 02:49:18 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/config.php on line 2
+[25-Sep-2018 02:50:15 America/Chicago] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/bgfhomes/public_html/lib/login.php on line 51
+[25-Sep-2018 02:57:59 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/config.php on line 2
+[25-Sep-2018 03:00:06 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/config.php on line 2
+[25-Sep-2018 03:01:59 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/config.php on line 2
+[25-Sep-2018 03:06:18 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/config.php on line 2
+[25-Sep-2018 03:08:16 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/config.php on line 2
+[25-Sep-2018 03:09:13 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/config.php on line 2
+[25-Sep-2018 03:10:14 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/config.php on line 2
+[25-Sep-2018 03:10:21 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/config.php on line 2
+[25-Sep-2018 03:11:16 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/config.php on line 2
+[25-Sep-2018 03:13:14 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/config.php on line 3
+[25-Sep-2018 03:13:27 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/config.php on line 3
+[25-Sep-2018 03:14:04 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/config.php on line 3
+[25-Sep-2018 03:21:09 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/config.php on line 1
+[25-Sep-2018 03:23:09 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/POP3.php on line 126
+[25-Sep-2018 03:23:21 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/POP3.php on line 126
+[25-Sep-2018 03:24:20 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/POP3.php on line 126
+[25-Sep-2018 03:25:34 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/POP3.php on line 126
+[25-Sep-2018 03:26:54 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/POP3.php on line 126
+[25-Sep-2018 03:28:20 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/POP3.php on line 126
+[25-Sep-2018 03:31:55 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/POP3.php on line 126
+[25-Sep-2018 03:33:20 America/Chicago] PHP Fatal error:  Call to undefined function ni_set() in /home/bgfhomes/public_html/includes/Email.php on line 2
+[25-Sep-2018 03:33:47 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/POP3.php on line 126
+[25-Sep-2018 03:36:08 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/POP3.php on line 191
+[25-Sep-2018 03:36:28 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/bgfhomes/public_html/includes/email/src/POP3.php on line 226
+[25-Sep-2018 03:36:56 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/OAuth.php on line 114
+[25-Sep-2018 03:37:38 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/SMTP.php on line 157
+[25-Sep-2018 03:39:00 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/SMTP.php on line 185
+[25-Sep-2018 03:39:25 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/SMTP.php on line 240
+[25-Sep-2018 03:39:51 America/Chicago] PHP Parse error:  syntax error, unexpected ']', expecting ')' in /home/bgfhomes/public_html/includes/email/src/SMTP.php on line 240
+[25-Sep-2018 03:40:07 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/bgfhomes/public_html/includes/email/src/SMTP.php on line 240
+[25-Sep-2018 03:41:36 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/SMTP.php on line 287
+[25-Sep-2018 03:41:52 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/bgfhomes/public_html/includes/email/src/SMTP.php on line 317
+[25-Sep-2018 03:42:17 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/bgfhomes/public_html/includes/email/src/SMTP.php on line 333
+[25-Sep-2018 03:42:40 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/bgfhomes/public_html/includes/email/src/SMTP.php on line 399
+[25-Sep-2018 03:43:05 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/SMTP.php on line 460
+[25-Sep-2018 03:43:41 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/bgfhomes/public_html/includes/email/src/SMTP.php on line 655
+[25-Sep-2018 03:44:08 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/SMTP.php on line 669
+[25-Sep-2018 03:44:21 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/SMTP.php on line 769
+[25-Sep-2018 03:44:45 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/SMTP.php on line 791
+[25-Sep-2018 03:49:51 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/SMTP.php on line 791
+[25-Sep-2018 03:50:09 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/SMTP.php on line 791
+[25-Sep-2018 03:50:12 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/SMTP.php on line 862
+[25-Sep-2018 03:50:37 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/SMTP.php on line 904
+[25-Sep-2018 03:51:01 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/SMTP.php on line 972
+[25-Sep-2018 03:51:14 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/SMTP.php on line 972
+[25-Sep-2018 03:51:34 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/bgfhomes/public_html/includes/email/src/SMTP.php on line 1013
+[25-Sep-2018 03:52:05 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/SMTP.php on line 1111
+[25-Sep-2018 03:52:26 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/SMTP.php on line 1185
+[25-Sep-2018 03:52:51 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 288
+[25-Sep-2018 04:43:22 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 392
+[25-Sep-2018 04:43:39 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 514
+[25-Sep-2018 04:44:20 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 792
+[25-Sep-2018 04:44:47 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 971
+[25-Sep-2018 04:45:17 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 992
+[25-Sep-2018 04:45:34 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 1009
+[25-Sep-2018 04:45:51 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 1031
+[25-Sep-2018 04:46:09 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 1038
+[25-Sep-2018 04:46:25 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 1062
+[25-Sep-2018 04:46:39 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 1069
+[25-Sep-2018 04:47:11 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 1085
+[25-Sep-2018 04:47:30 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 1094
+[25-Sep-2018 04:47:44 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 1095
+[25-Sep-2018 04:48:01 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 1362
+[25-Sep-2018 04:48:30 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 1369
+[25-Sep-2018 04:48:53 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 1530
+[25-Sep-2018 04:49:28 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 1558
+[25-Sep-2018 04:49:44 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 1582
+[25-Sep-2018 04:50:16 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 1617
+[25-Sep-2018 04:50:30 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 1645
+[25-Sep-2018 04:50:54 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 1708
+[25-Sep-2018 04:51:10 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 1723
+[25-Sep-2018 04:51:44 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 1756
+[25-Sep-2018 04:52:12 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 1817
+[25-Sep-2018 04:52:30 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 1944
+[25-Sep-2018 04:53:01 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 2028
+[25-Sep-2018 04:53:16 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 2258
+[25-Sep-2018 04:53:41 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 2258
+[25-Sep-2018 04:54:19 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 2409
+[25-Sep-2018 04:54:49 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 2595
+[25-Sep-2018 04:55:13 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 2603
+[25-Sep-2018 04:55:36 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 2684
+[25-Sep-2018 04:56:06 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 2758
+[25-Sep-2018 04:56:29 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 2803
+[25-Sep-2018 04:56:45 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 3171
+[25-Sep-2018 04:57:07 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 3192
+[25-Sep-2018 04:57:27 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 3233
+[25-Sep-2018 04:57:49 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 3283
+[25-Sep-2018 04:58:19 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 3424
+[25-Sep-2018 04:59:02 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 3641
+[25-Sep-2018 04:59:29 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 3802
+[25-Sep-2018 04:59:58 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 3944
+[25-Sep-2018 05:00:21 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 4013
+[25-Sep-2018 05:00:49 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 4032
+[25-Sep-2018 05:01:04 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bgfhomes/public_html/includes/email/src/PHPMailer.php on line 4364
+[25-Sep-2018 05:03:10 America/Chicago] PHP Notice:  Undefined index: act in /home/bgfhomes/public_html/lib/user.php on line 6
+[25-Sep-2018 05:03:10 America/Chicago] PHP Notice:  Undefined index: act in /home/bgfhomes/public_html/lib/user.php on line 11
+[25-Sep-2018 05:03:10 America/Chicago] PHP Notice:  Undefined index: act in /home/bgfhomes/public_html/lib/user.php on line 16
+[25-Sep-2018 05:09:24 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[25-Sep-2018 05:09:24 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[25-Sep-2018 05:09:24 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 97
+[25-Sep-2018 05:09:24 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 99
+[25-Sep-2018 05:12:07 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[25-Sep-2018 05:12:07 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[25-Sep-2018 05:12:07 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 97
+[25-Sep-2018 05:12:07 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 99
+[25-Sep-2018 05:14:37 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[25-Sep-2018 05:14:37 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[25-Sep-2018 05:14:37 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 97
+[25-Sep-2018 05:14:37 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 99
+[25-Sep-2018 05:21:21 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[25-Sep-2018 05:21:21 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[25-Sep-2018 05:21:21 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 97
+[25-Sep-2018 05:21:21 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 99
+[25-Sep-2018 05:22:44 America/Chicago] PHP Notice:  Undefined index: act in /home/bgfhomes/public_html/lib/user.php on line 6
+[25-Sep-2018 05:22:44 America/Chicago] PHP Notice:  Undefined index: act in /home/bgfhomes/public_html/lib/user.php on line 11
+[25-Sep-2018 05:22:44 America/Chicago] PHP Notice:  Undefined index: act in /home/bgfhomes/public_html/lib/user.php on line 16
+[25-Sep-2018 05:23:03 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[25-Sep-2018 05:23:03 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[25-Sep-2018 05:23:03 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 97
+[25-Sep-2018 05:23:03 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 99
+[25-Sep-2018 05:25:05 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[25-Sep-2018 05:25:05 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[25-Sep-2018 05:25:05 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 97
+[25-Sep-2018 05:25:05 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 99
+[25-Sep-2018 05:26:27 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[25-Sep-2018 05:26:27 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[25-Sep-2018 05:26:27 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 97
+[25-Sep-2018 05:26:27 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 99
+[25-Sep-2018 05:28:37 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[25-Sep-2018 05:28:37 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[25-Sep-2018 05:28:37 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 97
+[25-Sep-2018 05:28:37 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 99
+[25-Sep-2018 05:36:06 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[25-Sep-2018 05:36:06 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[25-Sep-2018 05:36:06 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 97
+[25-Sep-2018 05:36:06 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 99
+[25-Sep-2018 05:40:31 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 5
+[25-Sep-2018 05:40:31 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 9
+[25-Sep-2018 05:40:31 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 13
+[25-Sep-2018 05:43:08 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 5
+[25-Sep-2018 05:43:08 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 9
+[25-Sep-2018 05:43:08 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 13
+[25-Sep-2018 05:44:02 America/Chicago] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/bgfhomes/public_html/lib/login.php on line 51
+[25-Sep-2018 05:51:19 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[25-Sep-2018 05:51:19 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[25-Sep-2018 05:51:19 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 97
+[25-Sep-2018 05:51:19 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 99
+[25-Sep-2018 06:09:22 America/Chicago] PHP Notice:  Undefined index: transaction_currency_id in /home/bgfhomes/public_html/lib/beneficiary.php on line 40
+[25-Sep-2018 16:48:53 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[25-Sep-2018 16:48:53 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[25-Sep-2018 16:48:53 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 97
+[25-Sep-2018 16:48:53 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 99
+[25-Sep-2018 17:06:08 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 5
+[25-Sep-2018 17:06:08 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 9
+[25-Sep-2018 17:06:08 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 13
+[25-Sep-2018 17:47:18 America/Chicago] PHP Notice:  Undefined index: transaction_currency_id in /home/bgfhomes/public_html/lib/beneficiary.php on line 40
+[25-Sep-2018 18:04:53 America/Chicago] PHP Notice:  Undefined index: transaction_currency_id in /home/bgfhomes/public_html/lib/beneficiary.php on line 40
+[25-Sep-2018 18:08:22 America/Chicago] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/bgfhomes/public_html/lib/login.php on line 51
+[25-Sep-2018 18:11:38 America/Chicago] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/bgfhomes/public_html/lib/login.php on line 51
+[25-Sep-2018 18:12:01 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 5
+[25-Sep-2018 18:12:01 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 9
+[25-Sep-2018 18:12:01 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 13
+[25-Sep-2018 18:14:09 America/Chicago] PHP Notice:  Undefined index: transaction_currency_id in /home/bgfhomes/public_html/lib/beneficiary.php on line 40
+[26-Sep-2018 05:16:45 America/Chicago] PHP Notice:  Undefined index: transaction_currency_id in /home/bgfhomes/public_html/lib/beneficiary.php on line 40
+[26-Sep-2018 07:35:47 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 5
+[26-Sep-2018 07:35:47 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 9
+[26-Sep-2018 07:35:47 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 13
+[26-Sep-2018 07:47:22 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 5
+[26-Sep-2018 07:47:22 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 9
+[26-Sep-2018 07:47:22 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 13
+[27-Sep-2018 06:08:57 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[27-Sep-2018 06:08:57 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[27-Sep-2018 06:08:57 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 97
+[27-Sep-2018 06:08:57 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 99
+[27-Sep-2018 06:12:49 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[27-Sep-2018 06:12:49 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[27-Sep-2018 06:12:49 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 97
+[27-Sep-2018 06:12:49 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 99
+[27-Sep-2018 06:18:15 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[27-Sep-2018 06:18:15 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[27-Sep-2018 06:18:15 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 97
+[27-Sep-2018 06:18:15 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 99
+[27-Sep-2018 06:18:18 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[27-Sep-2018 06:18:18 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[27-Sep-2018 06:18:18 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 97
+[27-Sep-2018 06:18:18 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 99
+[27-Sep-2018 06:28:44 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[27-Sep-2018 06:28:44 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[27-Sep-2018 06:28:44 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 97
+[27-Sep-2018 06:28:44 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 99
+[27-Sep-2018 06:36:15 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[27-Sep-2018 06:36:15 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[27-Sep-2018 06:36:15 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 97
+[27-Sep-2018 06:36:15 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 99
+[27-Sep-2018 06:40:11 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[27-Sep-2018 06:40:11 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[27-Sep-2018 06:40:11 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 97
+[27-Sep-2018 06:40:11 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 99
+[27-Sep-2018 06:43:08 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[27-Sep-2018 06:43:08 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[27-Sep-2018 06:43:08 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 97
+[27-Sep-2018 06:43:08 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 99
+[27-Sep-2018 06:46:02 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[27-Sep-2018 06:46:02 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[27-Sep-2018 06:46:02 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 97
+[27-Sep-2018 06:46:02 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 99
+[27-Sep-2018 06:51:01 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[27-Sep-2018 06:51:01 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[27-Sep-2018 06:51:01 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 97
+[27-Sep-2018 06:51:01 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 99
+[27-Sep-2018 06:52:26 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[27-Sep-2018 06:52:26 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[27-Sep-2018 06:52:26 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 97
+[27-Sep-2018 06:52:26 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 99
+[27-Sep-2018 06:59:31 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[27-Sep-2018 06:59:31 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[27-Sep-2018 06:59:31 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 97
+[27-Sep-2018 06:59:31 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 99
+[27-Sep-2018 07:02:24 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[27-Sep-2018 07:02:24 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[27-Sep-2018 07:02:24 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 97
+[27-Sep-2018 07:02:24 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 99
+[27-Sep-2018 07:03:59 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[27-Sep-2018 07:03:59 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[27-Sep-2018 07:03:59 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 97
+[27-Sep-2018 07:03:59 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 99
+[27-Sep-2018 07:05:47 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[27-Sep-2018 07:05:47 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[27-Sep-2018 07:05:47 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 97
+[27-Sep-2018 07:05:47 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 99
+[27-Sep-2018 07:12:21 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[27-Sep-2018 07:12:21 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[27-Sep-2018 07:12:21 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 97
+[27-Sep-2018 07:12:21 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 99
+[27-Sep-2018 07:17:00 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[27-Sep-2018 07:17:00 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[27-Sep-2018 07:17:00 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 97
+[27-Sep-2018 07:17:00 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 99
+[27-Sep-2018 07:19:46 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[27-Sep-2018 07:19:46 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[27-Sep-2018 07:19:46 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 97
+[27-Sep-2018 07:19:46 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 99
+[27-Sep-2018 07:25:55 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[27-Sep-2018 07:26:11 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/bgfhomes/public_html/lib/user.php on line 56
+[27-Sep-2018 07:26:14 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/bgfhomes/public_html/lib/user.php on line 56
+[27-Sep-2018 07:26:30 America/Chicago] PHP Notice:  Undefined index: act in /home/bgfhomes/public_html/lib/user.php on line 6
+[27-Sep-2018 07:26:30 America/Chicago] PHP Notice:  Undefined index: act in /home/bgfhomes/public_html/lib/user.php on line 11
+[27-Sep-2018 07:26:30 America/Chicago] PHP Notice:  Undefined index: act in /home/bgfhomes/public_html/lib/user.php on line 16
+[27-Sep-2018 07:26:43 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[27-Sep-2018 07:34:02 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 57
+[27-Sep-2018 07:34:02 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 66
+[27-Sep-2018 07:34:02 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 98
+[27-Sep-2018 07:34:02 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 100
+[27-Sep-2018 07:38:28 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[27-Sep-2018 07:38:28 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[27-Sep-2018 07:41:18 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[27-Sep-2018 07:41:18 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[27-Sep-2018 07:41:18 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 97
+[27-Sep-2018 07:41:18 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 99
+[27-Sep-2018 07:41:39 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[27-Sep-2018 07:41:39 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[27-Sep-2018 07:41:39 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 97
+[27-Sep-2018 07:41:39 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 99
+[27-Sep-2018 07:42:48 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[27-Sep-2018 07:42:48 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[27-Sep-2018 07:42:48 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 97
+[27-Sep-2018 07:42:48 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 99
+[27-Sep-2018 07:44:15 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[27-Sep-2018 07:44:15 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[27-Sep-2018 07:44:15 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 97
+[27-Sep-2018 07:44:15 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 99
+[27-Sep-2018 07:45:16 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[27-Sep-2018 07:45:16 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[27-Sep-2018 07:45:16 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 97
+[27-Sep-2018 07:45:16 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 99
+[27-Sep-2018 07:46:03 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[27-Sep-2018 07:46:03 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[27-Sep-2018 07:46:03 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 97
+[27-Sep-2018 07:46:03 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 99
+[27-Sep-2018 07:51:38 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 60
+[27-Sep-2018 07:51:38 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 69
+[27-Sep-2018 07:51:38 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 101
+[27-Sep-2018 07:51:38 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 103
+[27-Sep-2018 07:51:50 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 60
+[27-Sep-2018 07:51:50 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 69
+[27-Sep-2018 07:51:50 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 101
+[27-Sep-2018 07:51:50 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 103
+[27-Sep-2018 07:53:03 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 60
+[27-Sep-2018 07:53:03 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 69
+[27-Sep-2018 07:53:03 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 101
+[27-Sep-2018 07:53:03 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 103
+[27-Sep-2018 07:54:28 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[27-Sep-2018 07:54:28 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[27-Sep-2018 07:54:28 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 97
+[27-Sep-2018 07:54:28 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 99
+[27-Sep-2018 07:55:05 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[27-Sep-2018 07:55:05 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[27-Sep-2018 07:55:05 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 97
+[27-Sep-2018 07:55:05 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 99
+[27-Sep-2018 07:56:14 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[27-Sep-2018 07:56:14 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[27-Sep-2018 07:56:14 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 97
+[27-Sep-2018 07:56:14 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 99
+[27-Sep-2018 07:58:03 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[27-Sep-2018 07:58:03 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[27-Sep-2018 07:58:03 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 97
+[27-Sep-2018 07:58:03 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 99
+[27-Sep-2018 08:07:31 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[27-Sep-2018 08:07:31 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[27-Sep-2018 08:07:31 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 97
+[27-Sep-2018 08:07:31 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 99
+[27-Sep-2018 08:23:03 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[27-Sep-2018 08:23:03 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[27-Sep-2018 08:23:03 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 97
+[27-Sep-2018 08:23:03 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 99
+[27-Sep-2018 08:24:15 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[27-Sep-2018 08:24:15 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[27-Sep-2018 08:24:15 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 97
+[27-Sep-2018 08:24:15 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 99
+[27-Sep-2018 08:27:57 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 56
+[27-Sep-2018 08:27:57 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 65
+[27-Sep-2018 08:27:57 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 97
+[27-Sep-2018 08:27:57 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 99
+[27-Sep-2018 08:42:27 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 61
+[27-Sep-2018 08:42:27 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 70
+[27-Sep-2018 08:42:27 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 102
+[27-Sep-2018 08:42:27 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 104
+[27-Sep-2018 08:51:52 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 62
+[27-Sep-2018 08:51:52 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 71
+[27-Sep-2018 08:51:52 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 103
+[27-Sep-2018 08:51:52 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 105
+[27-Sep-2018 08:55:12 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 62
+[27-Sep-2018 08:55:12 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 71
+[27-Sep-2018 08:55:12 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 103
+[27-Sep-2018 08:55:12 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 105
+[27-Sep-2018 08:56:17 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 62
+[27-Sep-2018 08:56:17 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 71
+[27-Sep-2018 08:56:17 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 103
+[27-Sep-2018 08:56:18 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 105
+[27-Sep-2018 10:01:24 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 62
+[27-Sep-2018 10:01:24 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 71
+[27-Sep-2018 10:01:24 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 103
+[27-Sep-2018 10:01:24 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 105
+[27-Sep-2018 10:20:05 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 5
+[27-Sep-2018 10:20:06 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 9
+[27-Sep-2018 10:20:06 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 13
+[27-Sep-2018 10:28:26 America/Chicago] PHP Notice:  Undefined index: transaction_currency_id in /home/bgfhomes/public_html/lib/beneficiary.php on line 40
+[27-Sep-2018 10:29:25 America/Chicago] PHP Notice:  Undefined index: transaction_currency_id in /home/bgfhomes/public_html/lib/beneficiary.php on line 40
+[27-Sep-2018 10:34:08 America/Chicago] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/bgfhomes/public_html/lib/login.php on line 51
+[27-Sep-2018 11:19:49 America/Chicago] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/bgfhomes/public_html/lib/login.php on line 51
+[27-Sep-2018 11:24:00 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 5
+[27-Sep-2018 11:24:00 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 9
+[27-Sep-2018 11:24:00 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 13
+[27-Sep-2018 11:29:31 America/Chicago] PHP Notice:  Undefined index: admin_details in /home/bgfhomes/public_html/lib/admin.php on line 37
+[27-Sep-2018 11:29:31 America/Chicago] PHP Notice:  Undefined index: admin_gender in /home/bgfhomes/public_html/lib/admin.php on line 58
+[27-Sep-2018 11:29:31 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/admin.php on line 61
+[27-Sep-2018 11:35:20 America/Chicago] PHP Notice:  Undefined index: transaction_currency_id in /home/bgfhomes/public_html/lib/beneficiary.php on line 40
+[27-Sep-2018 11:36:01 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 5
+[27-Sep-2018 11:36:01 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 9
+[27-Sep-2018 11:36:01 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 13
+[27-Sep-2018 11:41:42 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 62
+[27-Sep-2018 11:41:42 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 103
+[27-Sep-2018 11:42:42 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 5
+[27-Sep-2018 11:42:42 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 9
+[27-Sep-2018 11:42:42 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 13
+[27-Sep-2018 11:43:05 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 5
+[27-Sep-2018 11:43:05 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 9
+[27-Sep-2018 11:43:05 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 13
+[27-Sep-2018 11:43:42 America/Chicago] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/bgfhomes/public_html/lib/login.php on line 51
+[27-Sep-2018 14:06:33 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/bgfhomes/public_html/lib/user.php on line 35
+[27-Sep-2018 14:07:13 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/bgfhomes/public_html/lib/user.php on line 35
+[27-Sep-2018 14:07:50 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/bgfhomes/public_html/lib/user.php on line 35
+[27-Sep-2018 14:08:05 America/Chicago] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/bgfhomes/public_html/lib/login.php on line 51
+[27-Sep-2018 14:09:21 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 62
+[27-Sep-2018 14:09:22 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 71
+[27-Sep-2018 14:09:22 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 103
+[27-Sep-2018 14:09:22 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 105
+[27-Sep-2018 14:12:55 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 62
+[27-Sep-2018 14:12:55 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 103
+[28-Sep-2018 07:32:46 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 62
+[28-Sep-2018 07:32:47 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 71
+[28-Sep-2018 07:32:47 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 103
+[28-Sep-2018 08:19:33 America/Chicago] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/bgfhomes/public_html/lib/login.php on line 51
+[28-Sep-2018 08:20:21 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 62
+[28-Sep-2018 08:20:21 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 109
+[28-Sep-2018 08:50:46 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 62
+[28-Sep-2018 08:50:46 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 77
+[28-Sep-2018 08:50:46 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 109
+[28-Sep-2018 12:57:02 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 62
+[28-Sep-2018 12:57:02 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 77
+[28-Sep-2018 12:57:02 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 109
+[28-Sep-2018 12:59:46 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 62
+[28-Sep-2018 12:59:46 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 77
+[28-Sep-2018 12:59:46 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 109
+[28-Sep-2018 12:59:46 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 111
+[28-Sep-2018 13:04:21 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 5
+[28-Sep-2018 13:04:21 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 9
+[28-Sep-2018 13:04:21 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 13
+[28-Sep-2018 13:11:25 America/Chicago] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/bgfhomes/public_html/lib/login.php on line 51
+[28-Sep-2018 13:18:20 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 5
+[28-Sep-2018 13:18:20 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 9
+[28-Sep-2018 13:18:20 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 13
+[28-Sep-2018 13:24:47 America/Chicago] PHP Notice:  Undefined index: transaction_currency_id in /home/bgfhomes/public_html/lib/beneficiary.php on line 40
+[28-Sep-2018 13:27:45 America/Chicago] PHP Notice:  Undefined index: transaction_currency_id in /home/bgfhomes/public_html/lib/beneficiary.php on line 40
+[28-Sep-2018 13:33:48 America/Chicago] PHP Notice:  Undefined index: transaction_currency_id in /home/bgfhomes/public_html/lib/beneficiary.php on line 40
+[28-Sep-2018 13:36:03 America/Chicago] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/bgfhomes/public_html/lib/login.php on line 51
+[28-Sep-2018 13:50:53 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 5
+[28-Sep-2018 13:50:53 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 9
+[28-Sep-2018 13:50:53 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 13
+[02-Oct-2018 11:11:21 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 5
+[02-Oct-2018 11:11:21 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 9
+[02-Oct-2018 11:11:21 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 13
+[02-Oct-2018 11:16:39 America/Chicago] PHP Notice:  Undefined index: transaction_currency_id in /home/bgfhomes/public_html/lib/beneficiary.php on line 40
+[03-Oct-2018 01:19:23 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 5
+[03-Oct-2018 01:19:23 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 9
+[03-Oct-2018 01:19:23 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 13
+[03-Oct-2018 01:20:33 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 5
+[03-Oct-2018 01:20:33 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 9
+[03-Oct-2018 01:20:33 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 13
+[03-Oct-2018 01:58:53 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 5
+[03-Oct-2018 01:58:53 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 9
+[03-Oct-2018 01:58:53 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 13
+[03-Oct-2018 06:50:29 America/Chicago] PHP Notice:  Use of undefined constant login - assumed 'login' in /home/bgfhomes/public_html/lib/login.php on line 51
+[03-Oct-2018 06:50:48 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 5
+[03-Oct-2018 06:50:48 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 9
+[03-Oct-2018 06:50:48 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 13
+[04-Oct-2018 04:09:18 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 5
+[04-Oct-2018 04:09:18 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 9
+[04-Oct-2018 04:09:18 America/Chicago] PHP Notice:  Use of undefined constant act - assumed 'act' in /home/bgfhomes/public_html/lib/admin-login.php on line 13
+[04-Oct-2018 04:20:18 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 62
+[04-Oct-2018 04:20:18 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 77
+[04-Oct-2018 04:20:18 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 109
+[04-Oct-2018 04:20:18 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 111
+[04-Oct-2018 04:32:49 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 62
+[04-Oct-2018 04:32:50 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 77
+[04-Oct-2018 04:32:50 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 109
+[20-Oct-2018 04:11:42 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 62
+[20-Oct-2018 04:11:42 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 77
+[20-Oct-2018 04:11:42 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 109
+[20-Oct-2018 04:11:42 America/Chicago] PHP Notice:  Undefined index: login in /home/bgfhomes/public_html/lib/user.php on line 111
+[22-Oct-2018 09:38:19 America/Chicago] PHP Notice:  Use of undefined constant user_id - assumed 'user_id' in /home/bgfhomes/public_html/lib/user.php on line 62
+[22-Oct-2018 09:38:19 America/Chicago] PHP Notice:  Undefined index: user_details in /home/bgfhomes/public_html/lib/user.php on line 77
+[22-Oct-2018 09:38:19 America/Chicago] PHP Notice:  Undefined variable: cond in /home/bgfhomes/public_html/lib/user.php on line 109
